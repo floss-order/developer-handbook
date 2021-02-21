@@ -5,24 +5,24 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
   
 
-*   [ ] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
-*   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
-*   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
-*   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
-*   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
-*   [ ] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
-*   [ ] You know and can use Context API [:books:](https://reactjs.org/docs/context.html#reactcreatecontext)
+*   [x] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+*   [x] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
+*   [x] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
+*   [x] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
+*   [x] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+*   [x] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
+*   [x] You know and can use Context API [:books:](https://reactjs.org/docs/context.html#reactcreatecontext)
 *   [ ] You can use refs to bind to a native DOM element and interact with it in component lifecycle [:books:](https://css-tricks.com/working-with-refs-in-react/)
-*   [ ] You understand concepts of higher order components and render functions, as well as their differences, pros and cons. [:books:](https://reactjs.org/docs/higher-order-components.html)
+*   [x] You understand concepts of higher order components and render functions, as well as their differences, pros and cons. [:books:](https://reactjs.org/docs/higher-order-components.html)
 *   [ ] You know how to prevent components from re-rendering. [:books:](https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645)
 *   [ ] You know how to reconcile global state with local component's state
-*   [ ] You know how and when to use portals. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
+*   [x] You know how and when to use portals. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
 
 [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 -------------------------------------------------------------
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
-*   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
+*   [x] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [x] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 *   [ ] You know how to write a custom React hook. [:books:](https://reactjs.org/docs/hooks-custom.html)
 *   [ ] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
 
@@ -34,7 +34,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
 [react-dom](/Technical%20Stack/Mobile%20Developer/React.md#react-dom)
 ---------------------------------------------------------------------
 
-*   [ ] You can explain how React.render function works. [:books:](https://reactjs.org/docs/rendering-elements.html)
+*   [x] You can explain how React.render function works. [:books:](https://reactjs.org/docs/rendering-elements.html)
 *   [ ] You can explain React.createPortal works. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
 *   [ ] You can explain how React.hydrate function works. [:books:](https://medium.com/@akakankur81/a-quick-overview-on-react-dom-render-and-hydrate-6d0ec6c1b234)
 
