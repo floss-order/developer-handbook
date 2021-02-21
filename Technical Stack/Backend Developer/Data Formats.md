@@ -1,10 +1,10 @@
 Data Formats
 ============
 
-*   [ ] JSON
-*   [ ] Yaml
-*   [ ] CSV
-*   [ ] uuid
+*   [x] JSON
+*   [x] Yaml
+*   [x] CSV
+*   [x] uuid
 
 * * *
 
