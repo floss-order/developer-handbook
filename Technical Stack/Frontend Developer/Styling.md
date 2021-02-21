@@ -91,11 +91,11 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 [Icons](/Technical%20Stack/Frontend%20Developer/Styling.md#icons)
 -----------------------------------------------------------------
 
-*   [ ] You used at least one of the icon libraries in a project
+*   [x] You used at least one of the icon libraries in a project
 
 ### [material-ui-icons](/Technical%20Stack/Frontend%20Developer/Styling.md#material-ui-icons)
 
-*   [ ] You know how to use, extend and modify icons from the library
+*   [x] You know how to use, extend and modify icons from the library
 
 [Emails](/Technical%20Stack/Frontend%20Developer/Styling.md#emails)
 -------------------------------------------------------------------
