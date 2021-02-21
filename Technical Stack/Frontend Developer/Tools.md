@@ -6,9 +6,9 @@ Tools
 
 ### [Figma](/Technical%20Stack/Mobile%20Developer/Tools.md#figma)
 
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
-*   [ ] You know how to extract image assets from a design project
-*   [ ] You know how to extract vector icon asset from a project
+*   [x] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
+*   [x] You know how to extract image assets from a design project
+*   [x] You know how to extract vector icon asset from a project
 
 ### [Zeplin](/Technical%20Stack/Mobile%20Developer/Tools.md#zeplin)
 
@@ -24,9 +24,9 @@ Tools
 
 ### [Adobe XD](/Technical%20Stack/Mobile%20Developer/Tools.md#adobe-xd)
 
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
-*   [ ] You know how to extract image assets from a design project
-*   [ ] You know how to extract vector icon asset from a project
+*   [x] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [x] You know how to extract image assets from a design project
+*   [x] You know how to extract vector icon asset from a project
 
 * * *
 
