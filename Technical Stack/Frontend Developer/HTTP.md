@@ -4,27 +4,27 @@ HTTP
 [Requests](/Technical%20Stack/Mobile%20Developer/HTTP.md#requests)
 ------------------------------------------------------------------
 
-*   [ ] You know what cookies are
-*   [ ] You know what HTTP headers are
-*   [ ] You can explain what CORS is and understand its shortcomings
-*   [ ] You can explain what HTTP only cookie is
+*   [x] You know what cookies are
+*   [x] You know what HTTP headers are
+*   [x] You can explain what CORS is and understand its shortcomings
+*   [x] You can explain what HTTP only cookie is
 *   [ ] You know which parts of the HTTPS request is encrypted
-*   [ ] You know different values for <code>content-type</code> header and understand when to use them
+*   [x] You know different values for <code>content-type</code> header and understand when to use them
 
 ### [fetch](/Technical%20Stack/Mobile%20Developer/HTTP.md#fetch)
 
-*   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-*   [ ] You know how to set HTTP headers in a request
-*   [ ] You know how to read HTTP headers sent in a response
-*   [ ] You know how to handle errors returned in HTTP response [:books:](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
+*   [x] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+*   [x] You know how to set HTTP headers in a request
+*   [x] You know how to read HTTP headers sent in a response
+*   [x] You know how to handle errors returned in HTTP response [:books:](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 *   [ ] You know how to cancel a request
 
 ### [Axios](/Technical%20Stack/Mobile%20Developer/HTTP.md#axios)
 
-*   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
+*   [x] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
 *   [ ] You know how to set HTTP headers in a request
-*   [ ] You know how to handle errors returned in HTTP response [:books:](https://www.intricatecloud.io/2020/03/how-to-handle-api-errors-in-your-web-app-using-axios/)
-*   [ ] You can configure axios to have a predefined base url for making requests
+*   [x] You know how to handle errors returned in HTTP response [:books:](https://www.intricatecloud.io/2020/03/how-to-handle-api-errors-in-your-web-app-using-axios/)
+*   [x] You can configure axios to have a predefined base url for making requests
 *   [ ] You know how to read HTTP headers sent in a response
 *   [ ] You know to add meta data (for example JWT token) to the request headers
 *   [ ] You know how to transform data with <code>transformResponse</code> and <code>transformRequest</code>
@@ -64,7 +64,7 @@ HTTP
 
 ### [http-status-codes](/Technical%20Stack/Mobile%20Developer/HTTP.md#http-status-codes)
 
-*   [ ] You use descriptive status codes instead of number literals
+*   [x] You use descriptive status codes instead of number literals
 
 * * *
 
