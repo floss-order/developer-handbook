@@ -41,7 +41,7 @@ Animations
 [CSS Animations](/Technical%20Stack/Frontend%20Developer/Animations.md#css-animations)
 --------------------------------------------------------------------------------------
 
-*   [ ] You know how write CSS animations - transitions, keyframes [:books:](https://www.youtube.com/watch?v=zHUpx90NerM)
+*   [x] You know how write CSS animations - transitions, keyframes [:books:](https://www.youtube.com/watch?v=zHUpx90NerM)
 *   [ ] You know what properties to add in order to provide the best browser performance in an animation
 
 [Common effects](/Technical%20Stack/Frontend%20Developer/Animations.md#common-effects)
