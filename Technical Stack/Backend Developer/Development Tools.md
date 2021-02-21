@@ -15,13 +15,13 @@ Development Tools
 
 ### [httpie](/Technical%20Stack/Backend%20Developer/Development%20Tools.md#httpie)
 
-*   [ ] You can create requests with JSON payload
+*   [x] You can create requests with JSON payload
 
 [Build Tools](/Technical%20Stack/Backend%20Developer/Development%20Tools.md#build-tools)
 ----------------------------------------------------------------------------------------
 
 *   [ ] PlatformIO
-*   [ ] Makefile
+*   [x] Makefile
 *   [ ] You used one of the tools in a project
 
 ### [pybuilder](/Technical%20Stack/Backend%20Developer/Development%20Tools.md#pybuilder)
