@@ -14,14 +14,14 @@ Company practices
 
 ### [Onetimesecret](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#onetimesecret)
 
-*   [ ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
+*   [x] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
 
 [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 ------------------------------------------------------------------------------
 
-*   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+*   [x] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
-*   [ ] You understand the pros and cons of git rebase vs git merge [:books:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+*   [x] You understand the pros and cons of git rebase vs git merge [:books:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 *   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 *   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
 *   [ ] You know how to configure rules in a repository for merging to specific branches (master, develop)
@@ -30,7 +30,7 @@ Company practices
 
 ### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
 
-*   [ ] You know how to create and reference issues
+*   [x] You know how to create and reference issues
 *   [ ] You know how to verify when a build check failed
 *   [ ] You know how to create GitHub Wiki pages
 
@@ -62,7 +62,7 @@ Company practices
 
 ### [Email](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#email)
 
-*   [ ] You can configure local email client
+*   [x] You can configure local email client
 *   [ ] You can configure email signatures
 
 * * *
