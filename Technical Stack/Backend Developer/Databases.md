@@ -6,8 +6,8 @@ Databases
 
 ### [PostgreSQL](/Technical%20Stack/Backend%20Developer/Databases.md#postgre-sql)
 
-*   [ ] You know how to create foreign keys
-*   [ ] You know data types, including JSON
+*   [x] You know how to create foreign keys
+*   [x] You know data types, including JSON
 *   [ ] You know how to query data using JSON path
 
 [NoSQL](/Technical%20Stack/Backend%20Developer/Databases.md#no-sql)
@@ -36,7 +36,7 @@ Databases
 
 ### [MongoDB](/Technical%20Stack/Backend%20Developer/Databases.md#mongo-db)
 
-*   [ ] You know how to structure documents
+*   [x] You know how to structure documents
 
 * * *
 
