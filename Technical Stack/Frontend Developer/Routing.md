@@ -18,7 +18,7 @@ Routing
 [react-router-dom](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router-dom)
 ---------------------------------------------------------------------------------------
 
-*   [ ] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
+*   [x] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
 
 * * *
 
