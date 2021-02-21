@@ -1,7 +1,7 @@
 SSR & Prerendering
 ==================
 
-*   [ ] You are aware of how SSR works and understand its use cases
+*   [x] You are aware of how SSR works and understand its use cases
 *   [ ] You understand the difference between prerendering + cache compared to full SSR
 
 [Gatsby](/Technical%20Stack/Frontend%20Developer/SSR%20&%20Prerendering.md#gatsby)
