@@ -1,8 +1,8 @@
 Fonts
 =====
 
-*   [ ] You know how to load custom webfonts available in Google Fonts [:books:](https://scotch.io/@micwanyoike/how-to-add-fonts-to-a-react-project#toc-using-hosted-fonts)
-*   [ ] You know how to load custom webfonts provided to you in a file
+*   [ч] You know how to load custom webfonts available in Google Fonts [:books:](https://scotch.io/@micwanyoike/how-to-add-fonts-to-a-react-project#toc-using-hosted-fonts)
+*   [ч] You know how to load custom webfonts provided to you in a file
 *   [ ] You understand the problem of webfont optimization and can apply best practices to a project [:books:](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
 
 [fontfaceobserver](/Technical%20Stack/Frontend%20Developer/Fonts.md#fontfaceobserver)
