@@ -4,7 +4,7 @@ Languages
 [JavaScript](/Technical%20Stack/Frontend%20Developer/Languages.md#java-script)
 ------------------------------------------------------------------------------
 
-*   [ ] You know javascript
+*   [x] You know javascript
 
 [TypeScript](/Technical%20Stack/Frontend%20Developer/Languages.md#type-script)
 ------------------------------------------------------------------------------
