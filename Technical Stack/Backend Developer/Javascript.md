@@ -6,13 +6,13 @@ Javascript
 
 ### [express](/Technical%20Stack/Backend%20Developer/Javascript.md#express)
 
-*   [ ] You know how to create a json response
-*   [ ] You know how to add a middleware
-*   [ ] You know how to fetch/persist data in DB
+*   [x] You know how to create a json response
+*   [x] You know how to add a middleware
+*   [x] You know how to fetch/persist data in DB
 
 ### [mongoose](/Technical%20Stack/Backend%20Developer/Javascript.md#mongoose)
 
-*   [ ] You know how to create Model using Schema
+*   [x] You know how to create Model using Schema
 
 * * *
 
