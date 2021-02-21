@@ -1,7 +1,7 @@
 SEO
 ===
 
-*   [ ] You understand HTML semantics and use them properly
+*   [x] You understand HTML semantics and use them properly
 *   [ ] You generate page's content following best SEO practices
 
 [react-helmet](/Technical%20Stack/Frontend%20Developer/SEO.md#react-helmet)
