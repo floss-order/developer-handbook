@@ -1,8 +1,8 @@
 Audio and Video
 ===============
 
-*   [ ] You know how to use standard HTML Audio and Video tags
-*   [ ] You know which formats and codecs should be used to support all modern browsers
+*   [x] You know how to use standard HTML Audio and Video tags
+*   [x] You know which formats and codecs should be used to support all modern browsers
 
 [Players](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#players)
 ---------------------------------------------------------------------------------
