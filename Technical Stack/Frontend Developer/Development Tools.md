@@ -6,11 +6,11 @@ Development Tools
 
 ### [Webpack](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#webpack)
 
-*   [ ] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
-*   [ ] You understand what webpack plugins are and you can add and configure when needed [:books:](https://webpack.js.org/plugins/html-webpack-plugin/#basic-usage)
-*   [ ] You understand the key concepts: entry, output, loaders and plugins
+*   [x] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
+*   [x] You understand what webpack plugins are and you can add and configure when needed [:books:](https://webpack.js.org/plugins/html-webpack-plugin/#basic-usage)
+*   [x] You understand the key concepts: entry, output, loaders and plugins
 *   [ ] You know how to pass environmental variables to the application
-*   [ ] You know how to configure a webpack from scratch to generate a project's build
+*   [x] You know how to configure a webpack from scratch to generate a project's build
 
 ### [Rollup](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#rollup)
 
@@ -23,27 +23,27 @@ Development Tools
 
 ### [Yarn](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#yarn)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
-*   [ ] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
+*   [x] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
 *   [ ] You know how to run package.json scripts [:books:](https://classic.yarnpkg.com/en/docs/cli/run/)
 *   [ ] You can upgrade packages using upgrade-interactive command
 *   [ ] You know how to initialize and publish a new package
 
 ### [NPM](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#npm)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
-*   [ ] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
-*   [ ] You know how to run package.json scripts [:books:](https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html#:~:text=You%20can%20easily%20run%20scripts,instead%20of%20pointing%20to%20node_modules%2F.)
-*   [ ] You can upgrade packages to newer versions
-*   [ ] You know how to define new package.json scripts
-*   [ ] You know how to initialize and publish a new package
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
+*   [x] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
+*   [x] You know how to run package.json scripts [:books:](https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html#:~:text=You%20can%20easily%20run%20scripts,instead%20of%20pointing%20to%20node_modules%2F.)
+*   [x] You can upgrade packages to newer versions
+*   [x] You know how to define new package.json scripts
+*   [x] You know how to initialize and publish a new package
 
 [Generators](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#generators)
 ---------------------------------------------------------------------------------------
 
 ### [create-react-app](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#create-react-app)
 
-*   [ ] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
+*   [x] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
 *   [ ] You can create and publish your own CRA template
 
 ### [plop.js](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#plop.js)
@@ -62,8 +62,8 @@ Development Tools
 
 ### [prop-types](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prop-types)
 
-*   [ ] You know how to describe component's prop types
-*   [ ] You know how to define object shapes
+*   [x] You know how to describe component's prop types
+*   [x] You know how to define object shapes
 
 ### [redux-devtools](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#redux-devtools)
 
@@ -79,13 +79,13 @@ Development Tools
 
 ### [eslint](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#eslint)
 
-*   [ ] You can run eslint and fix the warnings and errors [:books:](https://eslint.org/docs/user-guide/command-line-interface)
-*   [ ] You can add or exclude rules
+*   [x] You can run eslint and fix the warnings and errors [:books:](https://eslint.org/docs/user-guide/command-line-interface)
+*   [x] You can add or exclude rules
 
 ### [prettier](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prettier)
 
-*   [ ] You can run prettier and auto-correct errors [:books:](https://prettier.io/docs/en/cli.html)
-*   [ ] You can add or exclude rules
+*   [x] You can run prettier and auto-correct errors [:books:](https://prettier.io/docs/en/cli.html)
+*   [x] You can add or exclude rules
 
 ### [stylelint](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#stylelint)
 
@@ -97,8 +97,8 @@ Development Tools
 
 ### [dotenv](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#dotenv)
 
-*   [ ] You know how to inject env variables via dotenv and use them when needed
-*   [ ] You know when to commit env files to the repository and when not to
+*   [x] You know how to inject env variables via dotenv and use them when needed
+*   [x] You know when to commit env files to the repository and when not to
 
 * * *
 
