@@ -14,12 +14,12 @@ Templating engines
 [Handlebars](/Technical%20Stack/Frontend%20Developer/Templating%20engines.md#handlebars)
 ----------------------------------------------------------------------------------------
 
-*   [ ] You know how to render a handlebars template
-*   [ ] You know how to parse nested objects
-*   [ ] You know how to use handlebars functions
+*   [x] You know how to render a handlebars template
+*   [x] You know how to parse nested objects
+*   [x] You know how to use handlebars functions
 *   [ ] You know how to create a helper function
-*   [ ] You know how to escape HTML
-*   [ ] You know how to use partials
+*   [x] You know how to escape HTML
+*   [x] You know how to use partials
 
 [markdown-it](/Technical%20Stack/Frontend%20Developer/Templating%20engines.md#markdown-it)
 ------------------------------------------------------------------------------------------
